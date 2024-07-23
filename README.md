@@ -11,14 +11,21 @@ I am a Smart contract Security Researcher who is constantly exploring and learni
 # Summary
 
 ### Public Audits 
-| Contest Platform | Protocol | Secured Rank | Reference | 
+| Audit Platform | Protocol | Secured Rank | Reference | 
 |:--:|:--:|:--:|:--:|
 | Hats.finance | Blast Futures Exchange | #1 | [link](https://app.hats.finance/audit-competitions/blast-futures-exchange-0x97895c329b950755566ddcdad3395caaea395074/leaderboard) |
 | Hats.finance | Aleph Zero: Most Relayer | #1 | [link](https://app.hats.finance/audit-competitions/aleph-zero-most-relayer-0xd51be7e53f99f5f0153e1a3c154736adfd4c65e9/leaderboard) |
+| Secure3 | Mantle Staking | #1 | [link](https://app.secure3.io/8cf76f955c?tab=detail) |
+| Secure3 | FBTC | #1 | [link](https://app.secure3.io/8cf76f955c?tab=detail) |
+| Auditone | Ministry | #1 | [link](https://app.auditone.io/publicprofile/Mohammed%20Rizwan) |
+| Auditone | Chakra Labs | #1 | [link](https://www.auditone.io/audit-report/chakralabs) |
 | Sherlock | KyberSwap | #2 | [link](https://audits.sherlock.xyz/contests/103/leaderboard) | 
 | Sherlock | Stealth | #2 | [link](https://audits.sherlock.xyz/contests/201/leaderboard) | 
-| Hats.finance | Catalyst Exchange | #2 | [link](https://app.hats.finance/audit-competitions/catalyst-exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/leaderboard) |
 | Secure3 | Mantle V2 | #2 | [link](https://app.secure3.io/8cf76f955c?tab=winners) |
+| Auditone | Meld | #2 | [link](https://www.auditone.io/audit-report/meld) |
+| Hats.finance | Catalyst Exchange | #2 | [link](https://app.hats.finance/audit-competitions/catalyst-exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/leaderboard) |
+| Hats.finance | Intuition | #2 | [link](https://app.hats.finance/audit-competitions/intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/leaderboard) |
+| Hats.finance | Safe | #2 | [link](https://app.hats.finance/audit-competitions/safe-0x2909fdefd24a1ced675cb1444918fa766d76bdac/leaderboard) |
 | Hats.finance | Etherfi | #3 | [link](https://app.hats.finance/audit-competitions/etherfi-0x36c3b77853dec9c4a237a692623293223d4b9bc4/leaderboard) | 
 | Hats.finance | Fenix Finance | #4 | [link](https://app.hats.finance/audit-competitions/fenix-finance-0x83dbe5aa378f3ce160ed084daf85f621289fb92f/leaderboard) |
 | Hats.finance | Liquity | #4 | [link](https://app.hats.finance/audit-competitions/liquity-0x6137d49e0e68615a3fedfed0ecf9b1edea1441d8/leaderboard) |
@@ -31,13 +38,7 @@ I am a Smart contract Security Researcher who is constantly exploring and learni
 ### Private Audits 
 | Protocol | Type | M/H/L |
 |:--:|:--:|:--:|
-| Ministry | Staking | 45 |
-| Chakra Labs | Token | 04 |
-| Meld labs | Lending | 12 |
 | Gaz | Token | 06 |
-| Mantle-01 | Staking | 11 |
-| FBTC | Bridge | XX |
-| Mantle-02 | Staking | XX |
 
 ### Bug Bounties 
 | Protocol | Type | Severity |
@@ -51,4 +52,4 @@ I am a Smart contract Security Researcher who is constantly exploring and learni
 
 
 
-Last Updated: July 01, 2024
+Last Updated: July 23, 2024
