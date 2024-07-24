@@ -9,8 +9,7 @@ I am a Smart contract Security Researcher who is constantly exploring and learni
 - Discord: 0xrizwan
 
 # Summary
-
-### Public Audits 
+Following is my major achievements in Private and Public security audits. 
 | Audit Platform | Protocol | Secured Rank | Reference | 
 |:--:|:--:|:--:|:--:|
 | Hats.finance | Blast Futures Exchange | #1 | [link](https://app.hats.finance/audit-competitions/blast-futures-exchange-0x97895c329b950755566ddcdad3395caaea395074/leaderboard) |
@@ -19,6 +18,7 @@ I am a Smart contract Security Researcher who is constantly exploring and learni
 | Secure3 | FBTC | #1 | [link](https://app.secure3.io/8cf76f955c?tab=detail) |
 | Auditone | Ministry | #1 | [link](https://app.auditone.io/publicprofile/Mohammed%20Rizwan) |
 | Auditone | Chakra Labs | #1 | [link](https://www.auditone.io/audit-report/chakralabs) |
+| Auditone | ShiUniverse | #1 | [link](https://app.auditone.io/publicprofile/Mohammed%20Rizwan) |
 | Sherlock | KyberSwap | #2 | [link](https://audits.sherlock.xyz/contests/103/leaderboard) | 
 | Sherlock | Stealth | #2 | [link](https://audits.sherlock.xyz/contests/201/leaderboard) | 
 | Secure3 | Mantle V2 | #2 | [link](https://app.secure3.io/8cf76f955c?tab=winners) |
