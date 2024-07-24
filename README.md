@@ -8,7 +8,7 @@ I am a Smart contract Security Researcher who is constantly exploring and learni
 - Twitter: [@0xRizwann](https://twitter.com/0xRizwann)
 - Discord: 0xrizwan
 
-# Summary
+## Summary
 Following is my major achievements in Private and Public security audits. 
 | Audit Platform | Protocol | Secured Rank | Reference | 
 |:--:|:--:|:--:|:--:|
