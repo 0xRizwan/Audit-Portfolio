@@ -26,6 +26,8 @@ Following is my major achievements in Private and Public security audits.
 | Hats.finance | Catalyst Exchange | #2 | [link](https://app.hats.finance/audit-competitions/catalyst-exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/leaderboard) |
 | Hats.finance | Intuition | #2 | [link](https://app.hats.finance/audit-competitions/intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/leaderboard) |
 | Hats.finance | Safe | #2 | [link](https://app.hats.finance/audit-competitions/safe-0x2909fdefd24a1ced675cb1444918fa766d76bdac/leaderboard) |
+| Hats.finance | Illuminax | #2 | [link](https://app.hats.finance/audit-competitions/illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf/leaderboard) |
+| Hats.finance | Palmera | #2 | [link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard) |
 | Hats.finance | Etherfi | #3 | [link](https://app.hats.finance/audit-competitions/etherfi-0x36c3b77853dec9c4a237a692623293223d4b9bc4/leaderboard) | 
 | Hats.finance | Fenix Finance | #4 | [link](https://app.hats.finance/audit-competitions/fenix-finance-0x83dbe5aa378f3ce160ed084daf85f621289fb92f/leaderboard) |
 | Hats.finance | Liquity | #4 | [link](https://app.hats.finance/audit-competitions/liquity-0x6137d49e0e68615a3fedfed0ecf9b1edea1441d8/leaderboard) |
@@ -49,7 +51,4 @@ Following is my major achievements in Private and Public security audits.
 | WiseLending | Lending | Medium |
 | Asymmetry | Staking | Low |
 
-
-
-
-Last Updated: July 23, 2024
+Last Updated: September 02, 2024
