@@ -1,6 +1,6 @@
 Hi, I am 0xRizwan :raising_hand_man:
 ================================
-I am a Smart contract Security Researcher who is constantly exploring and learning about Smart contract security and in parallel putting all efforts to find bugs in Solidity smart contracts. I have been doing security reviews since one year. I participate in audit contest at Hats.finance, sherlock, code4rena and also do private audits and bug bounties.
+I am a Smart contract Security Researcher who is constantly exploring and learning about Smart contract security and in parallel putting all efforts to find bugs in Smart contracts. I have been doing security reviews since one year. I participate in audit contest at Hats.finance, sherlock, code4rena and also do private audits and bug bounties.
 
 **Let's make web 3.0 safe and secure.**
 
