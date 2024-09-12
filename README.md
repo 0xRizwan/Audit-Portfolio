@@ -1,8 +1,8 @@
 Hi, I am 0xRizwan :raising_hand_man:
 ================================
-I am a Smart contract Security Researcher who is constantly exploring and learning about Smart contract security and in parallel putting all efforts to find bugs in Smart contracts. I have been doing security reviews since one year. I participate in audit contest at Hats.finance, sherlock, code4rena and also do private audits and bug bounties.
+I find bugs in smart contracts.
 
-**Let's make web 3.0 safe and secure.**
+Let's make web 3.0 safe and secure.
 
 ### Contact Me
 - Twitter: [@0xRizwann](https://twitter.com/0xRizwann)
