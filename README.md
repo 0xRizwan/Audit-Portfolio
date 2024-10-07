@@ -12,6 +12,7 @@ Let's make web 3.0 safe and secure.
 Following is my major achievements in Private and Public security audits. 
 | Audit Platform | Protocol | Secured Rank | Reference | 
 |:--:|:--:|:--:|:--:|
+| Hats.finance | Accumulated Finance | #1 | [link](https://app.hats.finance/audit-competitions/accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/leaderboard) |
 | Hats.finance | Blast Futures Exchange | #1 | [link](https://app.hats.finance/audit-competitions/blast-futures-exchange-0x97895c329b950755566ddcdad3395caaea395074/leaderboard) |
 | Hats.finance | Aleph Zero: Most Relayer | #1 | [link](https://app.hats.finance/audit-competitions/aleph-zero-most-relayer-0xd51be7e53f99f5f0153e1a3c154736adfd4c65e9/leaderboard) |
 | Secure3 | Mantle Staking | #1 | [link](https://app.secure3.io/8cf76f955c?tab=detail) |
@@ -51,4 +52,4 @@ Following is my major achievements in Private and Public security audits.
 | WiseLending | Lending | Medium |
 | Asymmetry | Staking | Low |
 
-Last Updated: September 02, 2024
+Last Updated: October 07, 2024
