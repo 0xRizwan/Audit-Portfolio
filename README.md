@@ -23,6 +23,7 @@ Following is my major achievements in Private and Public security audits.
 | Sherlock | KyberSwap | #2 | [link](https://audits.sherlock.xyz/contests/103/leaderboard) | 
 | Sherlock | Stealth | #2 | [link](https://audits.sherlock.xyz/contests/201/leaderboard) | 
 | Secure3 | Mantle V2 | #2 | [link](https://app.secure3.io/8cf76f955c?tab=winners) |
+| Secure3 | Mantle-cmETH | #2 | [link](https://app.secure3.io/en/3cc3639c22?tab=detail) |
 | Auditone | Meld | #2 | [link](https://www.auditone.io/audit-report/meld) |
 | Hats.finance | Catalyst Exchange | #2 | [link](https://app.hats.finance/audit-competitions/catalyst-exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/leaderboard) |
 | Hats.finance | Intuition | #2 | [link](https://app.hats.finance/audit-competitions/intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/leaderboard) |
@@ -51,5 +52,3 @@ Following is my major achievements in Private and Public security audits.
 | DecimalChain | Bridge | Medium |
 | WiseLending | Lending | Medium |
 | Asymmetry | Staking | Low |
-
-Last Updated: October 07, 2024
